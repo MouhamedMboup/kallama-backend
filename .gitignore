@@ -1,0 +1,10 @@
+# Node/Deno
+node_modules/
+db_data/
+.env
+
+# OS files
+.DS_Store
+
+# Deno cache (optional)
+\.deno/

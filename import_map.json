@@ -1,0 +1,13 @@
+{
+    "imports": {
+      "hono":    "https://deno.land/x/hono@v2.5.5/mod.ts",
+      "hono/":   "https://deno.land/x/hono@v2.5.5/",
+  
+      "drizzle-orm":   "https://deno.land/x/drizzle_orm@v0.29.1/mod.ts",
+      "drizzle-orm/":  "https://deno.land/x/drizzle_orm@v0.29.1/",
+  
+      "postgres":      "https://deno.land/x/postgres@v0.17.0/mod.ts",
+      "zod":           "https://deno.land/x/zod@v3.22.2/mod.ts"
+    }
+  }
+  
